@@ -3,7 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bheema-284" alt="bheema" /></a> </p>
 
+### 💻 What do i do?
+
+- Though I hold Bachelor's degree in Civil Engineering, I aspire to work as a programmer.<br/>
+- A MERN stack developer, equipped with a diverse and promising skill-set.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bheema-284&label=Profile%20views&color=0e75b6&style=flat" alt="bheema" /> </p>
 - 🌱 I’m a **MERN Stack Developer**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
+
+- ⚡ Fun fact **I ❤️ Trading**
 
 - 📫 How to reach me **bheemudug@gmail.com**
 
