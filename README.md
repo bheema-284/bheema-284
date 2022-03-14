@@ -9,6 +9,7 @@
 - A MERN stack developer, equipped with a diverse and promising skill-set.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bheema-284&label=Profile%20views&color=0e75b6&style=flat" alt="bheema" /> </p>
+
 - 🌱 I’m a **MERN Stack Developer**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
