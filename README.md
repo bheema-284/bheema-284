@@ -1,3 +1,6 @@
+
+<a href="#"><img width="100%" height="auto" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
+
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Bheemudu Guguloth</h1>
 <h3 align="left">A problem solver and a full-stack web developer from India</h3>
 
@@ -10,13 +13,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bheema-284&label=Profile%20views&color=0e75b6&style=flat" alt="bheema" /> </p>
 
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+
 - 🌱 I’m a **MERN Stack Developer**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
+- <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
+
 - 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
 
-- ⚡ Fun fact **I ❤️ Trading**
+- ⚡ Fun fact **I ❤️ Trvelling**
 
 - 📫 How to reach me **bheemudug@gmail.com**
 
