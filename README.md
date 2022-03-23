@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
 
-- ⚡ Fun fact **I ❤️ Trvelling**
+- ⚡ Fun fact **I ❤️ Travelling**
 
 - 📫 How to reach me **bheemudug@gmail.com**
 
