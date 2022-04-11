@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **bheemudug@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wEuejYUOcyLIZOBg5J19lgsbmpF1oI3y/view?usp=sharing](https://drive.google.com/file/d/1wEuejYUOcyLIZOBg5J19lgsbmpF1oI3y/view?usp=sharing)
+- 📄 Know about my experiences [Bheemudu Guguloth](https://drive.google.com/file/d/1PGEf6f_Vq_TdBDmg_Q6F5o-_qR9CUxg0/view?usp=sharing)
 
 <h2 align="left"> ☕ Connect with me:</h2>
 <p align="left">
